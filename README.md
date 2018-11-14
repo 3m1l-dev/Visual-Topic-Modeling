@@ -4,7 +4,7 @@
 
 In this project I practiced visualising the topics learned by training a Latent Dirichlet Allocation topic model on the publicly available New York Times dataset (available here: https://www.kaggle.com/nzalake52/new-york-times-articles).
 
-![Screen-shot](./images/screenshot1.png)
+![Screen-shot](./images/15topics.png)
 
 Requirements:
 
