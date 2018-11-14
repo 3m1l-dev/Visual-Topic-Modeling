@@ -16,7 +16,7 @@ BASIC PRE PROCESSING
 
 def initial_clean(text):
 	"""
-	Cleans text of websites, emails, punctuation and returns tokens.
+	Cleans text of symbols + punctuation and returns tokens.
 	"""
 	replace_by_space_re = re.compile(r'[/(){}\[\]\|@,;]')
 	bad_symbols_re = re.compile('[^0-9a-z #+_]')
