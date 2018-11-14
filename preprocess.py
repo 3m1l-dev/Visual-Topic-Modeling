@@ -46,7 +46,7 @@ def preprocess(text):
 	return stem_words(initial_clean(text))
 
 """
-VOCABULARY PREPROCESSING, INCLUDING BAG OF WORDS AND TF-IDF 
+VOCABULARY PREPROCESSING 
 """
 
 def select_top_k(data, k):
